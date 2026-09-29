@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.nejrdr02387.cn/sitemap.xml
